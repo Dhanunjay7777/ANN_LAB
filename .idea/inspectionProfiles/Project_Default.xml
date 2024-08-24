@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Flaskproject1.Flaskpgno101.generate_password_hash" />
+          <option value="Flaskproject1.Tuple.*" />
+          <option value="smsproject.adminapp.models.Admin.objects" />
+          <option value="smsproject.adminapp.views.courses" />
+          <option value="users.views" />
+          <option value="astrology.astro.views.aspects_prob" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
